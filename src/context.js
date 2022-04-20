@@ -31,6 +31,7 @@ const AppProvider = ({ children }) => {
         setLoading(false);
       } else {
         setCocktails([]);
+        setLoading(false);
       }
     } catch (error) {
       console.log(error);
