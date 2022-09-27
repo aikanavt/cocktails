@@ -2,7 +2,7 @@
 
 Catalog of cocktails provided by TheCocktailDB
 
-(Live Demo)[https://cocktails-aikanavt.netlify.app/]
+[Live Demo](https://cocktails-aikanavt.netlify.app/)
 
 #### Technologies and tools used
 
