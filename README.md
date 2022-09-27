@@ -1,15 +1,24 @@
-#### React Router Fix
+#### Cocktails catalog
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+Catalog of cocktails provided by TheCocktailDB
 
-#### CRA Fix
+(Live Demo)[https://cocktails-aikanavt.netlify.app/]
 
-```
+#### Technologies and tools used
 
-"build": "CI= react-scripts build",
+- React JS
+- React Router 6
+- TheCocktailDB API
 
-```
+#### React Course
+
+The project was developed as a part of [React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+
+#### To Run The App Locally
 
 ```sh
-npm install react-router-dom@6
+npm run install && npm start
 ```
+
+- visit url http://localhost:3000/
+
